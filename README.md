@@ -1,1 +1,1 @@
-# project-1-
+In this project, as the mouse slide thorught the background. When u click the mouse a particle will be generated. When u drage the mouse to other spot, the particle will continously follow the mouse slide pathway.
